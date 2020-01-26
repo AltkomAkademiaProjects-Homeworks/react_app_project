@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Parent from "./state/st4a";
+import App from "./apicons/api";
 
 
-ReactDOM.render(<Parent/>, document.getElementById("root"));
+ReactDOM.render(<App/>, document.getElementById("root"));
