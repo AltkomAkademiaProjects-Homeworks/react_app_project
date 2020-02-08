@@ -6,7 +6,6 @@ class App extends Component {
     render() {
         return (
             <Contacts contacts={this.state.contacts}/>
-            console.log("Piotr")
         )
     }
 
